@@ -1,0 +1,68 @@
+{
+  "employees": [
+    {
+      "Air India": "₹7482",
+      "IndiGo": "₹8771",
+      "id": 1
+    },
+    {
+      "AirAsia India": "₹3230",
+      "Air India": "₹22884",
+      "id": 2
+    },
+    {
+      "Vistara": "₹18226",
+      "IndiGo": "₹14672",
+      "id": 3
+    },
+    {
+      "Vistara": "₹17968",
+      "IndiGo": "₹14665",
+      "id": 4
+    },
+    {
+      "Goa": [
+        "New Delhi"
+      ],
+      "IndiGo": "₹9075",
+      "Vistara": "₹19754",
+      "id": 5
+    },
+    {
+      "Jaipur": [
+        "New Delhi"
+      ],
+      "AirAsia India": "₹3230",
+      "Air India": "₹22884",
+      "id": 6
+    },
+    {
+      "Bengaluru": [
+        "New Delhi"
+      ],
+      "Air India": "₹10196",
+      "IndiGo": "₹10889",
+      "id": 7
+    },
+    {
+      "Air India": "₹10196",
+      "IndiGo": "₹10889",
+      "id": 8
+    },
+    {
+      "IndiGo": "₹10416",
+      "Go!": "₹6824",
+      "id": 9
+    },
+    {
+      "AirAsia India": "₹5611",
+      "Air India": "₹11814",
+      "id": 10
+    },
+    {
+      "IndiGo": "₹10416",
+      "Go!": "₹6824",
+      "id": 11
+    }
+  ]
+}
